@@ -44,7 +44,7 @@ pycparser==2.20
 Pygments==2.9.0
 PyJWT==2.1.0
 PyMySQL==1.0.2
-pypiwin32==223
+
 PySocks==1.7.1
 pyTelegramBotAPI==3.7.7
 python-dateutil==2.8.1
