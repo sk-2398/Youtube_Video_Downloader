@@ -1,1 +1,1 @@
-web: gunicorn ytdown_app.wsgi --log-file -
+web: gunicorn ytb_main.wsgi --log-file -
