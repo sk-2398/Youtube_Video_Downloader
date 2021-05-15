@@ -1,1 +1,1 @@
-web: gunicorn ytb_main.wsgi --log-file -
+web: gunicorn django.core.wsgi --log-file -
